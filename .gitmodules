@@ -1,0 +1,3 @@
+[submodule "trabalho-threads-semaforos"]
+	path = trabalho-threads-semaforos
+	url = https://github.com/auri-gabriel/trabalho-threads-semaforos.git
