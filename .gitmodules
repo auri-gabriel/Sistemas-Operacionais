@@ -1,3 +1,6 @@
 [submodule "trabalho-threads-semaforos"]
 	path = trabalho-threads-semaforos
 	url = https://github.com/auri-gabriel/trabalho-threads-semaforos.git
+[submodule "trabalho-gerenciamento-memoria"]
+	path = trabalho-gerenciamento-memoria
+	url = https://github.com/auri-gabriel/trabalho-gerenciamento-memoria
