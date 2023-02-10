@@ -4,3 +4,6 @@
 [submodule "trabalho-gerenciamento-memoria"]
 	path = trabalho-gerenciamento-memoria
 	url = https://github.com/auri-gabriel/trabalho-gerenciamento-memoria
+[submodule "trabalho-interrupcoes"]
+	path = trabalho-interrupcoes
+	url = https://github.com/auri-gabriel/trabalho-interrupcoes
