@@ -12,7 +12,7 @@ Este repositório inclui os seguintes submódulos:
 
 ## Instruções para execução
 
-Para executar cada um dos trabalhos, siga as em seus respectivos repositorios:
+Para executar cada um dos trabalhos, siga as instruções em seus respectivos repositórios:
 
 ## Contribuições
 
